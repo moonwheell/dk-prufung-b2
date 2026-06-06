@@ -1,89 +1,14 @@
 **Sprechen Teil 3 Problemen Lösungen In einem Friseursalon**
 
 
-**397** 
 
-## **Möbel im Schnee und Regen** 
 
-## **Sie arbeiten gemeinsam in einem Möbelunternehmen. Die von den Kundinnen bestellten Möbelstücke stehen draußen, weil im Lager kein Platz mehr ist. Jetzt schneit und regnet es, und die Möbel könnten beschädigt werden.** 
 
-**Person A:** Also, wir haben wirklich ein dringendes Problem. Die von den Kundinnen bestellten Möbelstücke stehen draußen auf dem Hof, weil das Lager voll ist. Jetzt schneit und regnet es und die Möbel sind nicht abgedeckt. Ich finde, wir müssen den Chef sofort über die aktuelle Situation informieren, bevor es zu Schäden kommt. Was ist dein Vorschlag, wie wir am besten vorgehen? **Person B:** Ja, das sehe ich genauso. Ich denke, wir sollten zunächst alles genau dokumentieren: Welche Möbelstücke sind betroffen? Seit wann stehen sie draußen? Und wie ist der Zustand aktuell? Ich schlage vor, dass wir dem Chef noch heute eine E-Mail schicken und ihn auf dem Laufenden halten. Was meinst du, sollen wir auch Fotos machen, um den Zustand festzuhalten? **Person A:** Ja, das finde ich sehr wichtig. Fotos sind ein guter Nachweis, falls es später Reklamationen gibt. Kurzfristig sollten wir jetzt auf jeden Fall eine Abdeckung organisieren. Vielleicht haben wir noch Planen oder Folien im Lager, mit denen wir die Möbel schützen können. Oder sollen wir beim Baumarkt schnell welche kaufen? 
 
-**Person B:** Ja, das wäre eine gute Idee. Wenn wir selbst keine Planen mehr haben, sollten wir schnell welche besorgen.  Ich  kann  mich  darum  kümmern. Zusätzlich  könnten  wir  überlegen,  ob  wir  einen  Transport organisieren, um die Möbel an einen trockenen Ort zu bringen, vielleicht in ein externes Lager. Was hältst du davon? 
 
-**Person A:** Das wäre auf jeden Fall eine Lösung, aber wir müssten vorher den Chef fragen, ob wir das dürfen, weil das ja zusätzliche Kosten verursacht. Außerdem sollten wir den Kundinnen Bescheid geben, dass es im Moment ein Lagerproblem gibt. Ich finde, wir sollten ehrlich sein und ihnen anbieten, die Möbel möglichst schnell auszuliefern. Findest du das sinnvoll? 
+**403**
 
-**Person B:** Ja, ich finde, wir sollten den Kundinnen anbieten, die Möbel sofort zu liefern, auch wenn der eigentliche Liefertermin erst in ein paar Tagen wäre. Das ist besser, als die Möbel im Schnee stehen zu lassen. Vielleicht könnten wir den Kundinnen auch einen kleinen Rabatt oder einen Gutschein anbieten, falls es doch zu Beschädigungen kommt. Sollen wir das auch in den Vorschlag an den Chef aufnehmen? 
-
-**Person A:** Ja, das sollten wir unbedingt mit dem Chef besprechen. Es ist besser, proaktiv auf die Kundinnen zuzugehen, bevor es Beschwerden gibt. Langfristig sollten wir aber auch eine Lösung für unser Lagerproblem finden.  Ich  finde,  wir  brauchen  dringend  mehr  Lagerfläche  oder  flexiblere  Lieferzeiten,  damit  solche Situationen nicht mehr passieren. Was meinst du, wie könnten wir das dem Chef vorschlagen? **Person B:** Ich denke, wir könnten dem Chef vorschlagen, mit den Lieferanten zu sprechen. Vielleicht können sie die Möbel später liefern, sodass wir nicht so viele Artikel gleichzeitig lagern müssen. Oder wir könnten ein zusätzliches Lager mieten, zumindest für die Wintermonate, wenn das Wetter so schlecht ist. Findest du, das wäre realistisch? **Person A:** Ja, das ist realistisch. Wir könnten auch prüfen, ob es in der Nähe eine Halle gibt, die wir kurzfristig nutzen können. Zusätzlich sollten wir in Zukunft einen genauen Lagerplan erstellen, damit wir besser einschätzen können, wann wie viel Platz frei ist. Sollen wir das auch in unser Protokoll schreiben? 
-
-398 
-
-**Person B:** Ja, auf jeden Fall. Ich denke, wir sollten das alles schriftlich festhalten und dem Chef per E-Mail schicken. Außerdem könnten wir dem Lieferanten eine Info geben, dass die Möbel zu früh geliefert wurden und wir das nächstes Mal besser abstimmen wollen. Sollen wir das auch gleich machen? **Person A:** Ja, das ist eine gute Idee. Wir müssen dem Lieferanten erklären, dass wir bei Sonderbestellungen oder großen Mengen vorher Rücksprache halten möchten, bevor geliefert wird. Und ich finde, wir sollten dem Chef  vorschlagen,  dass  wir  regelmäßige  Teamsitzungen  einführen,  um  solche  Probleme  frühzeitig  zu besprechen. Was hältst du davon? **Person B:** Das finde ich sinnvoll. So können wir Probleme schneller erkennen und gemeinsam Lösungen finden. Ich kann gerne den ersten Entwurf für das Protokoll schreiben, dann schauen wir es uns zusammen an, bevor wir es dem Chef schicken. Möchtest du die Fotos machen und den Lieferanten anrufen? **Person A:** Ja, das übernehme ich gerne. Ich mache die Fotos, dokumentiere alles und kontaktiere den Lieferanten. Ich fasse noch einmal zusammen: Wir dokumentieren den Zustand der Möbel und machen Fotos. Wir informieren den Chef schriftlich und schlagen kurzfristige Maßnahmen vor. Wir organisieren Planen oder kaufen Abdeckungen, um die Möbel zu schützen. Wir bieten den Kundinnen eine frühere Lieferung an oder im Notfall einen Gutschein. Wir sprechen mit den Lieferanten über flexiblere Lieferzeiten. Wir prüfen, ob wir eine zusätzliche Lagerfläche anmieten können. Wir erstellen einen Lagerplan für die Zukunft. Wir schlagen dem Chef vor, regelmäßige Teamsitzungen zu machen. Bist du mit dieser Zusammenfassung einverstanden? **Person B:** Ja, ich bin einverstanden. Ich finde, wir haben an alles gedacht und schnell reagiert. Dann lass uns jetzt direkt loslegen! 
-
-**399** 
-
-**Kühlraum kaputt** 
-
-## **Sie arbeiten gemeinsam in einem Lebensmittelunternehmen / Supermarkt / Restaurant. Der Kühlraum ist seit heute Morgen kaputt. Darin befinden sich viele verderbliche Waren wie Fleisch, Fisch und Milchprodukte.** 
-
-**Person A:** Also, wir haben heute Morgen festgestellt, dass unser Kühlraum nicht mehr funktioniert. Das ist wirklich ein großes Problem, weil dort viele verderbliche Waren lagern Fleisch, Fisch, Milchprodukte … Ich finde, wir müssen den Chef so schnell wie möglich über diese Situation informieren. Was ist dein Vorschlag, wie wir jetzt am besten vorgehen? 
-
-**Person B:** Ja, ich sehe das genauso. Wir sollten den Chef direkt informieren und ihm auch eine schriftliche Zusammenfassung schicken, damit wir alles dokumentiert haben. Mein Vorschlag wäre, dass wir zuerst prüfen, welche Produkte noch verwendbar sind und bei welchen die Kühlkette schon unterbrochen wurde. Sollen wir eine Liste machen, welche Produkte betroffen sind? 
-
-**Person A:** Ja, das ist auf jeden Fall sinnvoll. Ich denke, wir sollten den Zustand aller betroffenen Produkte genau dokumentieren: Datum, Uhrzeit, Temperatur – falls wir das noch rekonstruieren können. So haben wir später einen Nachweis, falls es Reklamationen gibt oder wir die Waren entsorgen müssen. Was meinst du, sollen wir auch Fotos machen? 
-
-**Person B:** Ja, Fotos sind auf jeden Fall wichtig. Dann kann der Chef und eventuell auch der Lieferant genau sehen, in welchem Zustand die Produkte jetzt sind. Ich finde, wir sollten außerdem den Techniker sofort anrufen, damit der Kühlraum so schnell wie möglich repariert wird. Wollen wir das gleich machen? **Person A:** Ja, das ist eine gute Idee. Wir sollten den Reparaturdienst anrufen und den Notfall melden. Ich denke, es wäre auch sinnvoll, den Wartungsvertrag zu überprüfen. Vielleicht haben wir Anspruch auf einen Notfallservice. Sollen wir auch gleich den Lieferanten informieren? Vielleicht können wir einige Produkte zurückgeben oder eine Ersatzlieferung bekommen. Wie siehst du das? 
-
-**Person B:** Ja, das sollten wir tun. Wir könnten den Lieferanten erklären, dass der Kühlraum kaputt ist und wir deshalb  bestimmte  Produkte  nicht  mehr  verkaufen  können.  Vielleicht  gibt  es  ja  eine  kulante  Lösung. Außerdem könnten wir fragen, ob der Lieferant uns kurzfristig neue Ware liefern kann, sobald der Kühlraum wieder funktioniert. Findest du das realistisch? 
-
-**Person A:** Ich denke schon. Viele Lieferanten sind bei solchen Situationen kulant, wenn man früh genug Bescheid  sagt. Und  kurzfristig müssen wir uns  auch  überlegen,  was  wir mit  den  noch verwendbaren Produkten machen. Vielleicht könnten wir die Kühlwaren, die noch in Ordnung sind, mit einem Sonderrabatt verkaufen, um den Verlust zu minimieren. Was meinst du dazu? **Person B:** Das finde ich eine gute Idee. Ein Sonderangebot kann helfen, die Ware schnell zu verkaufen, bevor sie schlecht wird. Wir sollten aber genau darauf achten, dass wir nur Produkte anbieten, die noch einwandfrei sind. Vielleicht könnten wir eine Liste für das Verkaufsteam erstellen, welche Artikel noch verkauft werden dürfen. Findest du, das wäre sinnvoll? **Person A:** Ja, das finde ich sehr wichtig. Sicherheit und Hygiene gehen natürlich vor. Wir müssen genau kontrollieren, welche Produkte noch in Ordnung sind. Und wir sollten das auch den Kundinnen erklären, wenn sie fragen, warum es plötzlich so günstige Angebote gibt. Ehrliche Kommunikation ist wichtig. Sollen wir auch ein Schild am Kühlregal aufstellen? 
-
-400 
-
-**Person B:** Ja, ein Hinweis wäre gut, damit die Kundinnen Bescheid wissen. Vielleicht so etwas wie „Sonderverkauf wegen Kühlraum-Ausfall – nur solange der Vorrat reicht“. Außerdem sollten wir dem Chef vorschlagen, dass wir in Zukunft ein Notfallkonzept für solche Fälle entwickeln. Was meinst du dazu? **Person A:** Das finde ich absolut richtig. Wir sollten einen Plan erstellen, der genau beschreibt, was zu tun ist, wenn der Kühlraum ausfällt. Zum Beispiel könnte man auch überlegen, einen zweiten, kleineren NotfallKühlraum anzuschaffen, damit wir solche Situationen besser überbrücken können. Sollen wir das auch dem Chef vorschlagen? 
-
-**Person B:** Ja, das finde ich sinnvoll. Ein zusätzlicher Kühlraum würde uns mehr Sicherheit geben. Und ich denke, wir sollten auch regelmäßig die Technik überprüfen lassen, damit so etwas gar nicht erst passiert. Vielleicht könnten wir dem Chef vorschlagen, den Wartungsvertrag zu erweitern. Findest du das eine gute Idee? 
-
-**Person A:** Ja, auf jeden Fall. Eine regelmäßige Wartung ist besser als eine teure Reparatur im Notfall. Und noch  etwas  fällt  mir  ein:  Wir  sollten  auch  die  Versicherung  informieren.  Vielleicht  übernimmt  die Versicherung einen Teil des Schadens, wenn wir den Kühlraumausfall melden. Sollen wir das auch gleich machen? 
-
-**Person B:** Ja, das ist ein wichtiger Punkt. Wir sollten den Schaden sofort der Versicherung melden, damit es später keine Probleme gibt. Ich kann mich um den Anruf bei der Versicherung kümmern. Möchtest du den Techniker anrufen und die Liste der betroffenen Produkte erstellen? 
-
-**Person A:** Ja, das übernehme ich gerne. Ich schreibe eine Liste, mache Fotos und rufe den Techniker an. Ich fasse  noch  einmal  zusammen:  Wir  dokumentieren  alle  betroffenen  Produkte  und  machen  Fotos.  Wir informieren den Chef sofort und schicken ihm eine E-Mail mit den Details. Wir rufen den Techniker an und kümmern uns um die Reparatur. Wir kontaktieren die Lieferanten, um eine Rückgabe oder Ersatzlieferung zu besprechen. Wir überlegen, ob wir einen Sonderverkauf für noch verwendbare Ware machen. Wir informieren die Kundinnen mit einem Schild über den Sonderverkauf. Wir schlagen dem Chef vor, ein Notfallkonzept zu erstellen und einen zweiten Kühlraum anzuschaffen. Wir erweitern den Wartungsvertrag, um regelmäßige Checks einzubauen. Wir informieren die Versicherung über den Schaden. Bist du mit dieser Zusammenfassung einverstanden? **Person B:** Ja, das klingt sehr gut. Ich finde, wir haben an alles gedacht und haben einen klaren Plan. Dann lass uns jetzt gleich anfangen! 
-
-**401** 
-
-**- 25 jähriges Firmenjubiläum** 
-
-## **Ihr Unternehmen feiert in drei Monaten 25-jähriges Firmenjubiläum. Ihr Chef hat Sie gebeten, die Feier zu organisieren.** 
-
-**Kollege A:** Unser Unternehmen feiert in drei Monaten 25-jähriges Firmenjubiläum. Unser Chef hat uns gebeten, die Feier zu organisieren. Wie gehen wir das am besten an? **Kollege B:** Das ist eine große Aufgabe! Zuerst sollten wir über den Termin sprechen. Wann wäre der beste Zeitpunkt? 
-
-**Kollege A:** Wie wäre es, die Feier am Wochenende zu machen? Dann könnten auch mehr Mitarbeiter und Kunden daran teilnehmen. **Kollege B:** Das klingt vernünftig. Ein Wochenende passt für die meisten Leute besser. 
-
-**Kollege A:** Und was ist mit der Location? Sollten wir die Feier in unseren eigenen Räumen veranstalten oder Räume anmieten? 
-
-**Kollege B:** Ich denke, unsere eigenen Räume wären eine gute Wahl. Das spart Kosten und schafft eine vertraute Atmosphäre. **Kollege A:** Das stimmt. Außerdem könnten wir unsere Räumlichkeiten passend dekorieren, um eine festliche Stimmung zu erzeugen. 
-
-**Kollege B:** Ja, und wir könnten ein Cateringunternehmen beauftragen, um sich um das Essen und die Getränke zu kümmern. 
-
-**Kollege A:** Gute Idee! Was halten wir vom Programm? Sollten wir es selbst organisieren oder jemanden damit beauftragen? **Kollege B:** Ich denke, wir könnten es selbst organisieren. So können wir das Programm besser auf die Bedürfnisse unserer Mitarbeiter und Kunden abstimmen. 
-
-**Kollege A:** Einverstanden. Vielleicht könnten wir auch besondere Aktionen für unsere Kunden anbieten, wie Sonderangebote oder Werbegeschenke. **Kollege B:** Das ist eine tolle Idee! Sonderangebote könnten die Kunden anziehen, und Werbegeschenke wären eine nette Geste. **Kollege A:** Genau. Dann könnten wir die Kunden auch über unsere Firmenhistorie informieren und ihnen für ihre Treue danken. **Kollege B:** Das wäre ein schöner persönlicher Touch. Insgesamt klingt das nach einem guten Plan. **Kollege A:** Ich freue mich darauf, das Jubiläum zu organisieren und hoffe, dass es ein großer Erfolg wird. **Kollege B:** Ich auch! Lass uns die Details planen und sicherstellen, dass alles reibungslos verläuft. 
-
-402 
-
-**Kaffeevollautomaten ist defekt** 
-
-## **Ihr Unternehmen mietet bei einer Firma einen Kaffeevollautomaten. Seit einer Woche ist der Automat defekt.** 
-
-**Kollege A:** Seit einer Woche ist unser Kaffeevollautomat defekt. Das ist ein großes Problem, besonders für die Kaffeeliebhaber im Büro. Wie sollen wir in dieser Situation reagieren? **Kollege B:** Ja, das ist wirklich ärgerlich. Was genau ist denn defekt am Kaffeeautomaten? **Kollege A:** Es scheint, dass das Mahlwerk blockiert ist und die Maschine nicht mehr richtig mahlt oder Kaffee ausgibt. 
-
-**Kollege B:** Das klingt nach einem Problem, das eine Reparatur erfordert. Wen können wir bei der Firma kontaktieren? **Kollege A:** Wir sollten direkt den Kundenservice anrufen und den Defekt melden. Wir könnten eine schnelle Reparatur oder Ersatz fordern. **Kollege B:** Das ist eine gute Idee. Wir müssen auch darauf achten, dass die Reparaturkosten vom Vertrag abgedeckt sind. **Kollege A:** Genau, wir sollten überprüfen, was unser Vertrag mit der Firma beinhaltet. Falls der Automat nicht schnell repariert werden kann, sollten wir Alternativen in Betracht ziehen. **Kollege B:** Ja, wir könnten eine Filterkaffeemaschine als vorübergehende Lösung verwenden. **Kollege A:** Das ist eine Option. Oder wir könnten Kaffeegutscheine für die benachbarte Bäckerei anbieten, damit die Mitarbeiter dort ihren Kaffee bekommen können. **Kollege B:** Das ist eine nette Geste. Langfristig sollten wir überlegen, ob wir den Vertrag kündigen und eine andere Firma für den Kaffeevollautomaten suchen sollten. **Kollege  A:** Das  könnte  eine  Möglichkeit  sein.  Vielleicht  sollten  wir  auch  nach  Bewertungen  und Empfehlungen für andere Firmen suchen, um eine bessere Wahl zu treffen. **Kollege B:** Ja, das wäre sinnvoll. Wir müssen sicherstellen, dass wir eine zuverlässige Firma mit gutem Kundenservice wählen. **Kollege A:** Auf jeden Fall. Zunächst sollten wir uns um die Reparatur kümmern und dann über langfristige Lösungen nachdenken. **Kollege B:** Genau. Ich werde den Kundenservice anrufen und die Reparatur anfragen. Lass uns dann über die weiteren Schritte sprechen. **Kollege A:** Das klingt nach einem Plan. Ich hoffe, wir können das Problem schnell lösen und die Kaffeepause bald wieder genießen. 
-
-**403** 
-
-**Der Auftrag wird nun vom Kunden sehr kurzfristig und ohne Begründung storniert.** 
+**Der Auftrag wird nun vom Kunden sehr kurzfristig und ohne Begründung storniert.**
 
 ## **Sie arbeiten bei einem Catering-Service. Eine große Firma (ihr langjähriger Kunde) hat bei Ihnen Speisen und Getränke für eine Veranstaltung bestellt. Der Auftrag wird nun vom Kunden sehr kurzfristig und ohne Begründung storniert.** 
 
