@@ -1,44 +1,4 @@
 
-422 
-
-**Der Backoffen funktioniert nicht** 
-
-## **Sie arbeiten zusammen in einer Bäckerei. Der Backoffen funktioniert nicht und Sie können nicht backen.** 
-
-**Person 1:** Oh nein, der Backofen funktioniert nicht! Was sollen wir jetzt machen? **Person 2:** Das ist wirklich ärgerlich. Wir können nicht einfach den Laden schließen. Vielleicht sollten wir überlegen, was wir trotzdem verkaufen können. 
-
-**Person 1:** Ja, gute Idee. Vielleicht können wir stattdessen mehr Kuchen oder Gebäck anbieten, das wir bereits vorbereitet haben. 
-
-**Person 2:** Das könnte funktionieren. Wir sollten auch überlegen, wen wir anrufen können, um den Backofen so schnell wie möglich reparieren zu lassen. 
-
-**Person 1:** Stimmt. Ich denke, wir sollten den Techniker der Bäckerei anrufen und ihn um Hilfe bitten. Er könnte uns sagen, ob er heute noch kommen kann. 
-
-**Person 2:** Das ist eine gute Idee. Und wenn der Techniker nicht sofort verfügbar ist, könnten wir auch einen anderen Backofenlieferanten anrufen, um zu sehen, ob sie uns einen Ersatzbackofen zur Verfügung stellen können. 
-
-**Person 1:** Das wäre eine gute Lösung als Notfallplan. Wir sollten auch darüber nachdenken, ob wir unseren Kunden etwas anbieten können, um die Unannehmlichkeiten zu entschuldigen. 
-
-**Person 2:** Ja, das ist wichtig. Vielleicht könnten wir ihnen einen Rabatt auf unsere anderen Produkte anbieten oder ihnen eine kleine Aufmerksamkeit geben, wenn sie wegen des Backofenproblems enttäuscht sind. 
-
-**Person 1:** Das klingt vernünftig. Und was ist mit den Preisen für die Produkte, die wir anbieten können? Sollen wir sie gleich lassen oder sie anpassen, da wir möglicherweise nicht unser volles Sortiment anbieten können? 
-
-**Person 2:** Ich denke, wir sollten die Preise gleich lassen, da die Qualität unserer Produkte immer noch hoch ist. Aber wir könnten einige Sonderangebote für die Produkte machen, die wir heute anbieten können, um die Kunden anzulocken. 
-
-**Person 1:** Das könnte funktionieren. Dann haben wir zumindest eine Strategie, um mit dieser unerwarteten Situation umzugehen. 
-
-**Person 2:** Ja, ich denke, wir sind auf dem richtigen Weg. Lass uns jetzt die Kunden informieren und die nötigen Schritte unternehmen, um den Laden trotz des Backofenproblems am Laufen zu halten. 
-
-**423** 
-
-## **Mittagessen für die Heimbewohner immer zu spät und es ist kalt** 
-
-# **Sie arbeiten in einem Altenheim. Ein Essenstieferant liefert das Mittagessen für die Heimbewohner immer zu spät und es ist kalt. Die Bewohner beschweren sich darüber.** 
-
-**Person 1:** Wir haben ein ernsthaftes Problem mit dem Essenstieferanten. Das Mittagessen kommt immer zu spät und ist kalt, und die Bewohner beschweren sich zunehmend **Person  2:** Das  ist  wirklich  inakzeptabel.  Wir  müssen  sofort  handeln,  um  sicherzustellen,  dass  unsere Bewohner rechtzeitig und mit warmem Essen versorgt werden. 
-
-**Person 1:** Ich stimme zu. Zuerst sollten wir den Lieferanten kontaktieren und unsere Bedenken direkt ansprechen. Vielleicht gibt es einen Grund für die Verzögerungen, den wir lösen können. **Person 2:** Ja, das sollten wir tun. Wir müssen ihnen klar machen, dass wir zuverlässige und pünktliche Lieferungen benötigen, um die Bedürfnisse unserer Bewohner zu erfüllen. **Person 1:** Absolut. Wir sollten auch darüber sprechen, wie das Essen aufgewärmt werden kann, wenn es kalt ankommt. Vielleicht können wir Heizplatten verwenden oder den Lieferanten bitten, spezielle Behälter zu verwenden, die das Essen länger warm halten. **Person 2:** Das klingt nach einer vernünftigen Lösung. Wir müssen sicherstellen, dass das Essen, selbst wenn es zu spät kommt, immer noch eine angemessene Temperatur hat, wenn es serviert wird. **Person 1:** Langfristig sollten wir auch darüber nachdenken, ob wir einen neuen Lieferanten finden sollten. Wenn dieser Lieferant wiederholt unzuverlässig ist, könnte es besser sein, eine andere Option zu suchen. **Person 2:** Ja, das könnte eine gute Idee sein. Vielleicht sollten wir einige Recherchen durchführen und nach Lieferanten suchen, die sich auf die Bedürfnisse von Altenheimen spezialisiert haben und pünktliche und qualitativ hochwertige Lieferungen garantieren. 
-
-**Person  1:** Das  ist  definitiv  einen  Versuch  wert.  Wir  sollten  uns  auch  mit  anderen  Altenheimen  oder Pflegeeinrichtungen austauschen, um zu sehen, welche Lieferanten sie verwenden und ob sie zufrieden sind. **Person 2:** Gute Idee. Ich denke, wenn wir diese Probleme angehen und eine Lösung finden, können wir sicherstellen, dass unsere Bewohner die bestmögliche Versorgung erhalten. **Person 1:** Absolut. Lasst uns direkt mit dem Lieferanten sprechen und dann weitere Schritte unternehmen, um sicherzustellen, dass unsere Bewohner die Qualität und Pünktlichkeit bekommen, die sie verdienen. 
-
 424 
 
 ## **- Sie kooperieren in der Physiotherapie Abteilung eines Krankenhauses. Es fehlen benötigte Salben und Öle, und der Terminkalender ist überfüllt.** 
