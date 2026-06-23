@@ -130,6 +130,7 @@
 
 *Порівняння (Vergleiche)*
 **je … desto** (чим … тим): Je mehr man übt, desto besser spricht man. (Важливо: Je + підрядне (дієслово в кінець), desto + головне (дієслово одразу)).
+**je … umso** (чим … тим): Je mehr man übt, umso besser spricht man. (Важливо: Je + підрядне (дієслово в кінець), umso + головне (дієслово одразу)).
 
 ---
 
