@@ -1,6 +1,7 @@
 ## **Hotelkunden beschweren sich über die Qualität der Zimmerausstattung** 
 
-## **Sie arbeiten in einem großen Hotel. Manche Gäste haben sich beschwert, dass der Zimmerservice seine Arbeit nicht gut macht. Im Badezimmer werden schmutzige Handtücher oft nicht ausgetauscht und auch die Betten sind oft nicht ordentlich hergerichtet.** 
+## **Sie arbeiten in einem großen Hotel. Manche Gäste haben sich beschwert, dass der Zimmerservice seine Arbeit nicht gut macht. 
+Im Badezimmer werden schmutzige Handtücher oft nicht ausgetauscht und auch die Betten sind oft nicht ordentlich hergerichtet.** 
 
 **Person A:** Guten Tag! Wir haben Beschwerden von Gästen erhalten, dass der Zimmerservice 
 in unserem Hotel nicht gut arbeitet. 
