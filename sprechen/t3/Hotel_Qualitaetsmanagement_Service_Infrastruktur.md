@@ -22,18 +22,19 @@ Filename: `Hotel_Qualitaetsmanagement_Service_Infrastruktur.md`
 
 ---
 
-## **Strategische Tipps für B2 Beruf**
+## **Strategische Tipps (Niveau B1+/B2)**
 
 ### **1. Wichtige Redemittel**
 
-* **Qualitätssicherung:** "Um einen gleichbleibend hohen Standard bei der Verpflegung zu gewährleisten, führen wir ab sofort eine lückenlose Temperaturkontrolle am Buffet ein."
-* **Infrastrukturmanagement:** "Eine stabile WLAN-Verbindung ist heute ein Grundbedürfnis unserer Gäste. Wir investieren daher in eine moderne Netzwerkinfrastruktur, um eine flächendeckende Konnektivität zu garantieren."
-* **Beschwerdemanagement:** "Ein unzufriedener Gast ist ein Anlass zur sofortigen Prozessverbesserung. Wir reagieren mit Kulanz und einer proaktiven Lösungsstrategie."
-* **Prozessoptimierung:** "Durch die Etablierung eines regelmäßigen Wartungsturnus stellen wir sicher, dass sämtliche technischen Anlagen stets den Anforderungen entsprechen."
+* **Über das Problem:** "Wir haben leider viele Beschwerden bekommen, weil das Essen am Buffet oft kalt ist und das WLAN auf den Zimmern nicht richtig funktioniert."
+* **Lösung vorschlagen:** "Wir müssen die Technik in der Küche prüfen und im Hotel bessere WLAN-Router aufstellen."
+* **Kunden entschädigen:** "Wir entschuldigen uns bei den Gästen und bieten ihnen als Entschädigung ein Upgrade oder einen Gutschein für den Spa-Bereich an."
+* **Zukunft planen:** "Wir führen ab sofort regelmäßige Kontrollen ein, damit unsere Technik immer einwandfrei funktioniert."
 
 ### **2. Experten-Hinweise**
 
-* **Konnectivität:** In der Hotellerie ist WLAN heutzutage ein "Must-have". Bezeichne es als grundlegende Serviceleistung, dann zeigst du ein Verständnis für die modernen Bedürfnisse der Hotelgäste.
-* **Warmhaltekette:** Ähnlich wie bei der Kühlkette ist in der Küche die "Einhaltung der Warmhaltekette" ein fachsprachlich sehr präziser Begriff.
-* **Proaktivität:** Betone, dass ihr die Probleme beheben wollt, *bevor* die Bewertung auf Reiseportalen erscheint. Das Reputationsmanagement ist für Hotels extrem wichtig.
-* **Upgrade:** Wenn du ein "Upgrade" vorschlägst, zeigst du, dass du die Möglichkeiten kennst, wie man Gäste auch ohne hohe Kosten für das Hotel wieder glücklich machen kann (ein Zimmer, das eh frei ist, kostet nichts, macht den Gast aber sehr zufrieden).
+* **Serviceorientierung:** In einem Hotel ist der Gast "König". Wenn du sagst: *"Wir möchten, dass sich unsere Gäste bei uns wie zu Hause fühlen"*, ist das ein perfekter Satz für das Niveau B2.
+* **Warmhalten:** Wenn es um das Buffet geht, benutze einfache Verben: *"Wir müssen das Essen besser warmhalten"* oder *"Wir prüfen die Heizplatten"*. Das ist direkt und jeder versteht dich.
+* **WLAN als Standard:** Erwähne, dass ein Gast heute "Internet braucht, um zu arbeiten oder E-Mails zu schreiben". Das zeigt, dass du verstehst, was der Gast von einem modernen Hotel erwartet.
+* **Kulanz:** Das Wort "Kulanz" bedeutet, dass man dem Kunden freiwillig entgegenkommt. Du kannst einfach sagen: *"Wir sind kulant und bieten ein Upgrade an"*. Das klingt sehr professionell, aber nicht zu kompliziert.
+* **Reputation:** Du kannst sagen: *"Wir wollen keine schlechten Bewertungen im Internet."* Das ist ein einfacher, aber sehr starker Satz, der zeigt, dass du an das Ansehen der Firma denkst.Wenn du ein "Upgrade" vorschlägst, zeigst du, dass du die Möglichkeiten kennst, wie man Gäste auch ohne hohe Kosten für das Hotel wieder glücklich machen kann (ein Zimmer, das eh frei ist, kostet nichts, macht den Gast aber sehr zufrieden).

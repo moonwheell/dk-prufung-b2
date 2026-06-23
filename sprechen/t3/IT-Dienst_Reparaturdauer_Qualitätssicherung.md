@@ -20,6 +20,9 @@ Filename: `IT-Dienst_Reparaturdauer_Qualitätssicherung.md`
 
 **Person 2:** Und ich bereite die Entschuldigungen für die Kunden vor und organisiere unser erstes Team-Meeting. Gemeinsam schaffen wir es, dass die Computer wieder schnell und richtig repariert werden.
 
+**Person 1:** Absolut. Lass uns loslegen.
+
+
 ---
 
 ## **Strategische Tipps (Niveau B1+/B2)**
